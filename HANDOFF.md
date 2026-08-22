@@ -16,11 +16,11 @@
 ## حسابات الوصول
 
 - **Owner Google/GitHub/Vercel:** www.xzorrodx@gmail.com
-- **Agent access email:** mohamed.atef.54321@gmail.com
-  - Google Sheet: Editor ✓ (دعوة اتسنت)
-  - Apps Script: Editor ✓ (دعوة اتسنت — لازم يقبلها من الإيميل)
-  - GitHub: الريبو **public** — clone/PR من غير دعوة. لو محتاج صلاحية push مباشرة، اعمل حساب GitHub بالإيميل ده وابعت اليوزرنيم عشان تتعمل invite.
-  - Vercel: الحساب Hobby (فردي) — مش بيقبل members. أي إيجنت يقدر يعمل deploy من fork بتاعه، أو الترقيه لـ Pro لإضافة member.
+- **Agent access email:** mohamed.atef.ghanem54321@gmail.com
+  - Google Sheet: **Editor ✓ مؤكد** (في قائمة المشاركين)
+  - Apps Script: **Editor ✓ مؤكد** (في قائمة المشاركين)
+  - GitHub: الريبو **public** — clone/PR من غير دعوة. لو محتاج push مباشر، اعمل حساب GitHub وابعت اليوزرنيم عشان تتعمل invite collaborator.
+  - Vercel: الحساب Hobby (فردي) — مش بيقبل members. الإيجنت يعمل deploy من fork بتاعه، أو ترقية Pro لإضافة member.
 
 ## بنية المشروع
 
