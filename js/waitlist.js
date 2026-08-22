@@ -8,7 +8,7 @@
   "use strict";
 
   // ===================== CONFIG =====================
-  var WAITLIST_WEBHOOK_PLACEHOLDER = "https://script.google.com/macros/s/REPLACE_WITH_YOUR_APPS_SCRIPT_ID/exec";
+  var WAITLIST_WEBHOOK_PLACEHOLDER = "https://script.google.com/macros/s/AKfycbyKby5aFDdsohCuXXI4ZVpL-L8JTPJ7pjC5o3LMsSjCDMT_9kF_WULk6ynoOShEeMhe/exec";
   var WAITLIST_WEBHOOK = (function () {
     try {
       var o = localStorage.getItem("anubis:waitlistWebhook");
